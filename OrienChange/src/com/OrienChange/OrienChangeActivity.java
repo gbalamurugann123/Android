@@ -17,6 +17,7 @@ public class OrienChangeActivity extends Activity {
         btn.setOnClickListener(addbtnListener); 
         //asd //20140212
         //201402121631
+        //commit
     }
     
     //add btn click listener

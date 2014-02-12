@@ -15,7 +15,7 @@ public class OrienChangeActivity extends Activity {
         setContentView(R.layout.main);
         Button btn = (Button)findViewById(R.id.btn);
         btn.setOnClickListener(addbtnListener); 
-        //asd
+        //asd //20140212
     }
     
     //add btn click listener

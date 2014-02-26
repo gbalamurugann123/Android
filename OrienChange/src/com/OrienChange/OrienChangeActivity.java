@@ -16,7 +16,7 @@ public class OrienChangeActivity extends Activity {
         Button btn = (Button)findViewById(R.id.btn);
         btn.setOnClickListener(addbtnListener); 
 
-        //asd test
+        //asd test test26
 
     }
     
